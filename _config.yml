@@ -12,7 +12,7 @@ title                    : "朱祉昕的个人博客"
 title_separator          : "-"
 name                     : &name "朱祉昕"
 description              : &description "中山大学2023级计算机科学与技术（人工智能与大数据方向）学生"
-url                      : https://cynthia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cyphia.github.io/cynthia.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/cynthia.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Cyphia/cynthia.github.io"
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Cyphia"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
