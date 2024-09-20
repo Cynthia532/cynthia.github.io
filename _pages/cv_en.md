@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv_en/
 author_profile: true
 redirect_from:
   - /resume
@@ -22,7 +22,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Understand the syntax and usage of C, C++, Python
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -49,4 +49,4 @@ Teaching
   
 Service and leadership
 ======
-* None
+* Head of the propaganda department, Love Alliance Network
