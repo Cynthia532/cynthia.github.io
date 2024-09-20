@@ -15,6 +15,23 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
+  {% if page.url == "/cv/" %}
+  <!-- Button to switch to English CV -->
+  <div style="position: absolute; top: 20px; right: 20px;">
+    <a href="/cv_en/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+      English
+    </a>
+  </div>
+{% endif %}
+
+{% if page.url == "/cv_en/" %}
+  <!-- Button to switch to Chinese CV -->
+  <div style="position: absolute; top: 20px; right: 20px;">
+    <a href="/cv/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+      中文
+    </a>
+  </div>
+{% endif %}
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>

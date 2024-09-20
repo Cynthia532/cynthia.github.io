@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="position: absolute; top: 20px; right: 20px;">
-    <a href="/cv_en/" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
-        English
-    </a>
-</div>
-
-<div style="margin-left: 20px;">
 教育经历
 ======
 * 中山大学 计算机科学与技术专业，2023-2027
@@ -56,5 +49,3 @@ Teaching
 服务经历
 ======
 * 爱心同盟 网宣部部长
-
-<\div>
