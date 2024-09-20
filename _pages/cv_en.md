@@ -9,24 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-教育经历
+Education
 ======
-* 中山大学 计算机科学与技术专业，2023-2027
+* B.S. in Computer Science and Technology, Sun Yat-Sen University, 2027
 
-项目经历
+Work experience
 ======
-* 2024 秋: 建立个人博客
-  * 利用Github Pages服务部署个人博客
-  * 内容仍在持续更新中
+* Fall 2024: Building Personal Blog
+  * Sun Yat-Sen University
+  * Duties includes: Updates and improvements my personal blog
+  * Supervisor: The Users
   
-个人特长/技能
+Skills
 ======
-* 了解C、C++、Python等的语法与使用
-* 让我想想我还会啥
-  * 还没想到1.0
-  * 还没想到1.1
-  * 还没想到1.2
-* Play the piano...?
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 <!-- Publications
 ======
@@ -46,6 +47,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-服务经历
+Service and leadership
 ======
-* 爱心同盟 网宣部部长
+* None
