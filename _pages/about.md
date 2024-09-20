@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Get started by clicking any column in navigation bar...
+Get started by clicking any column in navigation bar...<br>
 点击导航栏任意栏目跳转……
