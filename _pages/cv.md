@@ -46,6 +46,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-志愿服务经历
+服务经历
 ======
 * 爱心同盟 网宣部部长
