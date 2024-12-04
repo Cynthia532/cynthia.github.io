@@ -250,15 +250,15 @@ defaults:
       comments: true
   # _courses
   - scope:
-    path: ""
-    type: courses
-  values:
-    layout: single
-    author_profile: true
-    read_time: true
-    comments: true
-    share: true
-    related: true
+      path: ""
+      type: courses
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 
 # Sass/SCSS
