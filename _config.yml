@@ -232,6 +232,7 @@ defaults:
       comments: true
       share: true
       related: true
+      exclude_future: true
   # _pages
   - scope:
       path: ""
@@ -258,7 +259,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      exclude_future: true
 
 
 # Sass/SCSS
