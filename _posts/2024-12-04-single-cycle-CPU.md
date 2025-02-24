@@ -1,7 +1,7 @@
 ---
 title: '单周期CPU实验'
 date: 2025-12-04
-permalink: /posts/2025/12/single_cycle_CPU/
+permalink: /posts/2025/12/single-cycle-CPU/
 tags:
   - Laboratory_of _Computer_Organization
   - Verilog
